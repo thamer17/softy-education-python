@@ -1,0 +1,1 @@
+print("tha" in "Thamer") 

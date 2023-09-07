@@ -1,0 +1,3 @@
+cow
+dogs
+cat
